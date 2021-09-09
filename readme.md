@@ -1,11 +1,17 @@
 **Contents**
 - [Books](#books)
+- [A](#a)
+  - [Attention](#attention)
 - [C](#c)
   - [Connectionist temporal classification (CTC)](#connectionist-temporal-classification-ctc)
   - [Convolutional Neural Networks (CNN)](#convolutional-neural-networks-cnn)
 
 # Books
 - [Dive into Deep Learning](http://d2l.ai/index.html)
+
+# A
+## Attention
+- [Attention Is All You Need](http://papers.nips.cc/paper/7181-attention-is-all-you-%0Aneed.pdf) (*Paper*)
 
 # C
 ## Connectionist temporal classification (CTC)
@@ -15,4 +21,4 @@ CTC is used to train deep neural networks in speech recognition, handwriting rec
 - [An Intuitive Explanation of Connectionist Temporal Classification](https://towardsdatascience.com/intuitively-understanding-connectionist-temporal-classification-3797e43a86c) (*blog*): Discussed from the hand writing recognition view.
 
 ## Convolutional Neural Networks (CNN)
-- [Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/convolutional-networks/) (blog): An in depth discussion on CNN and its operations. Includes both visual and mathematical concepts. 
+- [Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/convolutional-networks/) (*blog*): An in depth discussion on CNN and its operations. Includes both visual and mathematical concepts. 

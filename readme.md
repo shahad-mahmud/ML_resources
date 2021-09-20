@@ -2,6 +2,8 @@
 - [Books](#books)
 - [A](#a)
   - [Attention](#attention)
+- [B](#b)
+  - [Byte Pair Encoding (BPE)](#byte-pair-encoding-bpe)
 - [C](#c)
   - [Connectionist temporal classification (CTC)](#connectionist-temporal-classification-ctc)
   - [Convolutional Neural Networks (CNN)](#convolutional-neural-networks-cnn)
@@ -12,6 +14,11 @@
 # A
 ## Attention
 - [Attention Is All You Need](http://papers.nips.cc/paper/7181-attention-is-all-you-%0Aneed.pdf) (*Paper*)
+
+# B
+## Byte Pair Encoding (BPE)
+- [Neural Machine Translation of Rare Words with Subword Units](https://arxiv.org/pdf/1508.07909) (*Paper*): Proposed to use BPE in ML. Source code is also [provided in GitHub](https://github.com/rsennrich/subword-nmt).
+- [Byte Pair Encoding](https://leimao.github.io/blog/Byte-Pair-Encoding/) (*blog*): Covers step-by-step implementation with examples.
 
 # C
 ## Connectionist temporal classification (CTC)

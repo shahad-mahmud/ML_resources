@@ -7,6 +7,8 @@
 - [C](#c)
   - [Connectionist temporal classification (CTC)](#connectionist-temporal-classification-ctc)
   - [Convolutional Neural Networks (CNN)](#convolutional-neural-networks-cnn)
+- [L](#l)
+  - [LSTM](#lstm)
 
 # Books
 - [Dive into Deep Learning](http://d2l.ai/index.html)
@@ -19,6 +21,7 @@
 ## Byte Pair Encoding (BPE)
 - [Neural Machine Translation of Rare Words with Subword Units](https://arxiv.org/pdf/1508.07909) (*Paper*): Proposed to use BPE in ML. Source code is also [provided in GitHub](https://github.com/rsennrich/subword-nmt).
 - [Byte Pair Encoding](https://leimao.github.io/blog/Byte-Pair-Encoding/) (*blog*): Covers step-by-step implementation with examples.
+- [Byte Pair Encoding (BPE) and Subword Tokenization](https://blog.shahadmahmud.com/byte-pair-encoding-and-subword-tokenization/) (*blog*): Why subword tokenization is important is explained with step by step explanation and implementation.
 
 # C
 ## Connectionist temporal classification (CTC)
@@ -29,3 +32,7 @@ CTC is used to train deep neural networks in speech recognition, handwriting rec
 
 ## Convolutional Neural Networks (CNN)
 - [Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/convolutional-networks/) (*blog*): An in depth discussion on CNN and its operations. Includes both visual and mathematical concepts. 
+
+# L
+## LSTM
+- [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) (*blog*): A good introduction to RNN and discussion of the problem. Then why LSTM is needed and block by block explanation.

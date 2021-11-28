@@ -9,6 +9,8 @@
   - [Convolutional Neural Networks (CNN)](#convolutional-neural-networks-cnn)
 - [L](#l)
   - [LSTM](#lstm)
+- [W](#w)
+  - [Weight Decay](#weight-decay)
 
 # Books
 - [Dive into Deep Learning](http://d2l.ai/index.html)
@@ -36,3 +38,7 @@ CTC is used to train deep neural networks in speech recognition, handwriting rec
 # L
 ## LSTM
 - [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) (*blog*): A good introduction to RNN and discussion of the problem. Then why LSTM is needed and block by block explanation.
+
+# W
+## Weight Decay
+- [Weight Decay: basics with implementations](https://blog.shahadmahmud.com/weight-decay-basics-with-implementations/) (*blog*): Mathematical explanation with motivation behind weight decay and implementation form scratch.
